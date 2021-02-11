@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  tutorial:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-02-11T15:00:11.183824261+01:00"
+    description: A Helm chart for Kubernetes
+    digest: cc5dc1145ace2269b8a0fadfda64d0e74cf1b90486998ecfcae575bf5042baa1
+    name: tutorial
+    type: application
+    urls:
+    - https://jclopeza.github.io/helm-charts/tutorial-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-02-11T15:00:11.183361907+01:00"
