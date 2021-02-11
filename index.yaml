@@ -2,8 +2,38 @@ apiVersion: v1
 entries:
   tutorial:
   - apiVersion: v2
+    appVersion: 1.0.44
+    created: "2021-02-11T16:03:15.444914475+01:00"
+    description: A Helm chart for Kubernetes
+    digest: dbf3c071aa4a9e36d75e043e1854748bb9faaaa97427e98906626aee08758333
+    name: tutorial
+    type: application
+    urls:
+    - https://jclopeza.github.io/helm-charts/tutorial-1.0.44.tgz
+    version: 1.0.44
+  - apiVersion: v2
+    appVersion: 1.0.43
+    created: "2021-02-11T16:03:15.444542918+01:00"
+    description: A Helm chart for Kubernetes
+    digest: bf55e532a2648ef480f67e5bfbed51887297e251840fa7576fc5df32b54034df
+    name: tutorial
+    type: application
+    urls:
+    - https://jclopeza.github.io/helm-charts/tutorial-1.0.43.tgz
+    version: 1.0.43
+  - apiVersion: v2
+    appVersion: 1.0.42
+    created: "2021-02-11T16:03:15.444157246+01:00"
+    description: A Helm chart for Kubernetes
+    digest: 1729c41897757af493a4e4c5797b9f69ed46c9cf9e20ec6385a0df180f439496
+    name: tutorial
+    type: application
+    urls:
+    - https://jclopeza.github.io/helm-charts/tutorial-1.0.42.tgz
+    version: 1.0.42
+  - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-02-11T15:00:11.183824261+01:00"
+    created: "2021-02-11T16:03:15.443769141+01:00"
     description: A Helm chart for Kubernetes
     digest: cc5dc1145ace2269b8a0fadfda64d0e74cf1b90486998ecfcae575bf5042baa1
     name: tutorial
@@ -11,4 +41,4 @@ entries:
     urls:
     - https://jclopeza.github.io/helm-charts/tutorial-0.1.0.tgz
     version: 0.1.0
-generated: "2021-02-11T15:00:11.183361907+01:00"
+generated: "2021-02-11T16:03:15.443273831+01:00"
